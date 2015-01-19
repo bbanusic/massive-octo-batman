@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Dodana je Datoteka2.txt
-=======
-Dodana je Datoteka2.txt u first-branch.
->>>>>>> origin/first-branch
